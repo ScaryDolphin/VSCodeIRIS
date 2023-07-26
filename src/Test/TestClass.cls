@@ -3,6 +3,8 @@ Class Test.TestClass Extends %Persistent
 
 Property Name As %String;
 
+Property Age As %Integer;
+
 Storage Default
 {
 <Data name="TestClassDefaultData">
