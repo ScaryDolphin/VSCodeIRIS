@@ -3,6 +3,8 @@ Class Test.TestClass Extends %Persistent
 
 Property Name As %String;
 
+Property BirthYear As %Integer;
+
 Property Age As %Integer;
 
 Storage Default
@@ -16,6 +18,9 @@ Storage Default
 </Value>
 <Value name="3">
 <Value>Age</Value>
+</Value>
+<Value name="4">
+<Value>BirthYear</Value>
 </Value>
 </Data>
 <DataLocation>^Test.TestClassD</DataLocation>
