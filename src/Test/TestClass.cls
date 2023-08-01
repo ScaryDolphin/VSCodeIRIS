@@ -3,8 +3,6 @@ Class Test.TestClass Extends %Persistent
 
 Property Name As %String;
 
-Property BirthYear As %Integer;
-
 Property Age As %Integer;
 
 Storage Default
